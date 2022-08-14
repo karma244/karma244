@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=slice&amp;color=auto&amp;height=200&amp;text=SLICE&amp;fontAlign=70&amp;rotate=13&amp;fontAlignY=25&amp;desc=desc%20function%20is%20also%20rotated.&amp;descAlign=70.&amp;descAlignY=44
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=INFORMATION&desc=WELCOME!&stroke=000000&strokewidth=2&fontSize=60)
 <br/><br/><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black">
