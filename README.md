@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=INFORMATION&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=500&section=header&text=INFORMATION&fontSize=40)
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 [![Solved.ac
