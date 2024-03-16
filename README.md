@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=100&section=header&text=HELLO&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=100&section=header&text=HELLO&fontSize=60)
 <br/><br/><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge&logo=assemblyscript&logoColor=white"/><br/>
