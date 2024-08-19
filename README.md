@@ -9,7 +9,8 @@
 
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=karma2)](https://solved.ac/karma2)
+![mazassumnida](http://mazassumnida.wtf/api/v2/generate_badge?boj=karma2)
+![mazandi](http://mazandi.herokuapp.com/api?handle=karma2&theme=dark)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karma244&hide=contribs,prs)
